@@ -1,6 +1,7 @@
 
 SOLID PRICIPLE USING JAVA RE-PACKAGED BY ENGR. IPAYE BABATUNDE 👩‍💻💻
-In software development, Object-Oriented Design plays a crucial role when it comes to writing flexible, scalable, maintainable, and reusable code. There are so many benefits of using OOD but every developer should also know the SOLID principle for good object-oriented design in programming. The SOLID principle was introduced by Robert C. Martin, also known as Uncle Bob and it is a coding standard in programming. This principle is an acronym of the five principles which are given below:
+
+ In software development, Object-Oriented Design plays a crucial role when it comes to writing flexible, scalable, maintainable, and reusable code. There are so many benefits of using OOD but every developer should also know the SOLID principle for good object-oriented design in programming. The SOLID principle was introduced by Robert C. Martin, also known as Uncle Bob and it is a coding standard in programming. This principle is an acronym of the five principles which are given below:
 Single Responsibility Principle (SRP)
 Open/Closed Principle
 Liskov’s Substitution Principle (LSP)
